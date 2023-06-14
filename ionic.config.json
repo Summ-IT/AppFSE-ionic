@@ -1,0 +1,7 @@
+{
+  "name": "AppFSE-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
